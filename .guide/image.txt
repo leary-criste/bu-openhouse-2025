@@ -1,0 +1,6 @@
+<Image
+src="/images/profile.jpg"
+alt="Profile"
+fill
+className="rounded-full object-cover"
+/> 
